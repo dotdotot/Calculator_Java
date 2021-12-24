@@ -97,6 +97,8 @@ public class CalculatorExam_JTextField_JComboBox extends JFrame {
 		}
 	}
 
+
+	// OperActionListener Class
 	class OperActionListener implements ActionListener {
 		public void actionPerformed(ActionEvent e) {
 			String s = oper.getSelectedItem().toString();
