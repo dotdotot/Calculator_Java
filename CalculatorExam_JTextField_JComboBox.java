@@ -272,7 +272,7 @@ public class CalculatorExam_JTextField_JComboBox extends JFrame {
 		}
 	}
 
-	// 예외처리하는 메소드
+	// 예외처리하는 메소드 수정
 	public double NumberFormatException(String text) {
 		double num = -123456789.333;
 		try {
